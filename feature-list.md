@@ -31,6 +31,9 @@ Completed with errors, see above
 이번엔 정말 성공 ?
 dldddddd tjdllll
 
+sourcetree re install !!
+
+
 
 
 

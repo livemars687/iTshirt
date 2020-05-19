@@ -29,6 +29,7 @@ fatal: unable to access 'https://github.com/livemars687/iTshirt.git/': The reque
 Completed with errors, see above
 
 이번엔 정말 성공 ?
+dldddddd tjdllll
 
 
 
